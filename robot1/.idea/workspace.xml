@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c63c28c1-4e5e-4929-ade4-4a473070910e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyaZEzhTtHnecrCwMggdT459lJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="kemok-dance-robot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="robot1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kemok-dance-robot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="robot1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kemok-dance-robot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c63c28c1-4e5e-4929-ade4-4a473070910e" name="Default Changelist" comment="" />
+      <created>1585813840656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585813840656</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="203" width="640" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585998752004">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="360" y="203" width="640" height="386" key="#com.intellij.fileTypes.FileTypeChooser/0.26.1366.742@0.26.1366.742" timestamp="1585998752004" />
+    <state x="364" y="26" width="631" height="739" key="#main" timestamp="1585997595879">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="364" y="26" width="631" height="739" key="#main/0.26.1366.742@0.26.1366.742" timestamp="1585997595879" />
+    <state x="466" y="155" width="428" height="481" key="FileChooserDialogImpl" timestamp="1585997777995">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="466" y="155" width="428" height="481" key="FileChooserDialogImpl/0.26.1366.742@0.26.1366.742" timestamp="1585997777995" />
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1586003225924">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.26.1366.742@0.26.1366.742" timestamp="1586003225924" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1586003225924">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.26.1366.742@0.26.1366.742" timestamp="1586003225924" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1586003225923">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.26.1366.742@0.26.1366.742" timestamp="1586003225923" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1586003225924">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.26.1366.742@0.26.1366.742" timestamp="1586003225924" />
+    <state width="1324" height="222" key="GridCell.Tab.1.bottom" timestamp="1585882830121">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.1.bottom/0.26.1366.742@0.26.1366.742" timestamp="1585882830121" />
+    <state width="1324" height="222" key="GridCell.Tab.1.center" timestamp="1585882830120">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.1.center/0.26.1366.742@0.26.1366.742" timestamp="1585882830120" />
+    <state width="1324" height="222" key="GridCell.Tab.1.left" timestamp="1585882830120">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.1.left/0.26.1366.742@0.26.1366.742" timestamp="1585882830120" />
+    <state width="1324" height="222" key="GridCell.Tab.1.right" timestamp="1585882830121">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.1.right/0.26.1366.742@0.26.1366.742" timestamp="1585882830121" />
+    <state x="349" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585997256394">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="349" y="225" key="com.intellij.ide.util.TipDialog/0.26.1366.742@0.26.1366.742" timestamp="1585997256394" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585822744483">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.26.1366.742@0.26.1366.742" timestamp="1585822744483" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kemok-dance-robot.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kemok-dance-robot.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="p" language="Python" />
+        <watch expression="posicion_inicial" language="Python" />
+        <watch expression="p[k-1]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

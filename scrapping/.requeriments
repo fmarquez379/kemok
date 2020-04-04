@@ -1,0 +1,5 @@
+packets:argparse
+        sqlite3
+        urllib
+        BeautifulSoup4
+
